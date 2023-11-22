@@ -43,6 +43,7 @@
             <a href="aritimetica.php"> Média Aritimética </a>
             <a href="par_impar.php"> Numero Par ou Impar </a>
             <a href="char-count.php"> Contar Caracteres </a>
+            <a href="bhaskara.php"> Calculo de Bhaskara </a>
         </div>
     </div>
 

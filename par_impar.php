@@ -55,6 +55,7 @@
             <a href="aritimetica.php"> Média Aritimética </a>
             <a href="entre-numeros.php"> Numero em intervalo </a>
             <a href="char-count.php"> Contar Caracteres </a>
+            <a href="bhaskara.php"> Calculo de Bhaskara </a>
         </div>
     </div>
 
